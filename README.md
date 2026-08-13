@@ -6,7 +6,7 @@ l'avancée du projet de manière transparente.
 
 - 🐛 **Signaler un bug ou une idée** → [Issues](../../issues)
 - 🔧 **Proposer une correction/amélioration au changelog ou à la doc** → Pull Request bienvenue
-- 🤖 **Inviter le bot** → *(lien à venir)*
+- 🤖 **Inviter le bot** → *https://discord.com/oauth2/authorize?client_id=1527078366455529503*
 - 🖥️ **Panel web** → *(nom de domaine à venir)*
 
 ## À propos de Cusca
